@@ -1,7 +1,7 @@
-DataC Manual Testing Project
-This repository contains the manual testing documentation for the DataC project. It includes a detailed test scenario, test case results, and bug reports. The following files are included:
+#DataC Manual Testing Project
+-This repository contains the manual testing documentation for the DataC project. It includes a detailed test scenario, test case results, and bug reports. The following files are included:
 
-Project Files
+##Project Files
 DataC.xlsx: This is the test case sheet where the manual testing scenarios are documented, including test steps, pre-conditions, expected results, and actual results.
 Bug Report.xlsx: This file contains a detailed report of the bugs found during the manual testing process, including bug descriptions, severity, and steps to reproduce.
 Project Overview
